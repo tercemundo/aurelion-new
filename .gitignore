@@ -1,0 +1,15 @@
+# Entorno virtual de Python
+venv/
+
+# Archivos temporales de Microsoft Office
+~$*.pptx
+
+# Directorio con los datos en formato Excel
+Aurelion/
+
+# Cuadernos de Jupyter Notebook
+*.ipynb
+
+# Archivos de bytecode de Python
+*.pyc
+__pycache__/
